@@ -1,0 +1,19 @@
+# Python
+myvenv/
+__pycache__/
+*.py[cod]
+.env
+*.env
+
+# Node.js
+node_modules/
+dist/
+build/
+.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
